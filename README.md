@@ -15,7 +15,7 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Youssef-Mohammed-Soliman&theme=dark&background=45%2C6290EB%2C000000)](https://git.io/streak-stats)
 
-![align="center"](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Youssef-Mohammed-Soliman&theme=apprentice)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Youssef-Mohammed-Soliman&theme=apprentice)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Youssef-Mohammed-Soliman&theme=apprentice)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Youssef-Mohammed-Soliman&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Youssef-Mohammed-Soliman&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Youssef-Mohammed-Soliman&theme=github_dark)
 </p>
