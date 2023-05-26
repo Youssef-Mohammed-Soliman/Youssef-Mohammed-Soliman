@@ -1,8 +1,4 @@
-<h1 align="center">Hi 👋, I'm Youssef Mohammed</h1>
-<h3 align="center">A student at Faculty of Computers and Artificial Intelligence, Cairo University</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=youssef-mohammed-soliman&label=Profile%20views&color=0e75b6&style=flat" alt="youssef-mohammed-soliman" /> </p>
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2A91BE&center=true&vCenter=true&width=435&lines=Hi+there%F0%9F%91%8B;I'm+Youssef+Mohammed)](https://git.io/typing-svg)
 - 🌱 I’m currently learning **Stochastic models ,Game theory ,Mathematical optimization ,Modeling and simulation and network optimization.**
 
 - 📫 How to reach me **yousefzaza21@gmail.com**
