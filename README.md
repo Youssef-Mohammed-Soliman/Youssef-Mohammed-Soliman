@@ -16,3 +16,8 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=youssef-mohammed-soliman&show_icons=true&locale=en&layout=compact" alt="youssef-mohammed-soliman" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=youssef-mohammed-soliman&show_icons=true&locale=en" alt="youssef-mohammed-soliman" /></p>
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Youssef-Mohammed-Soliman&theme=apprentice)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Youssef-Mohammed-Soliman&theme=apprentice)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Youssef-Mohammed-Soliman&theme=apprentice)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Youssef-Mohammed-Soliman&theme=apprentice)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Youssef-Mohammed-Soliman&theme=apprentice&utcOffset=8)
