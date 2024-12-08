@@ -6,7 +6,7 @@
 <h3 align="left">Connect with me:</h3>
 
 <div id="badges" align="center">
-  <a href = "https://www.linkedin.com/in/youssef-mohamed-7a3513232/"> 
+  <a href = "https://www.linkedin.com/in/youssefmohammedsoliman/"> 
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 <a href="https://api.whatsapp.com/send?phone=+201115448775">
